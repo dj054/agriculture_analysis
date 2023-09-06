@@ -1,1 +1,1 @@
-<img src=url("Screenshot (53).png")>
+<img src="Screenshot (53).png">
